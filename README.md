@@ -1,4 +1,3 @@
-#Assignment of aman tyagi
+# Assignment of aman tyagi
 
-# Getting Started with Create React App
-# Deployed url:- [http://localhost:3000/]
+# Deployed url:- [https://planetttt.netlify.app/]
